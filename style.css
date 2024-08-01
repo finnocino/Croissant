@@ -1,0 +1,29 @@
+body {
+    background-color: pink;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+p {
+    text-align: center;
+}
+
+.navigation-links {
+    display: flex;
+    justify-content: center;
+}
+.home-link {
+    justify-content: center;
+    padding-left: 20px;
+}
+.photo-link {
+    justify-content: center;
+    padding-left: 20px;
+}
